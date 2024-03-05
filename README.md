@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidu-Udawatta&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilunimalsha&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>

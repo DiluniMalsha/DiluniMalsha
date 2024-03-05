@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   🤝 Actively seeking collaborations in the field of Software Development <br>
   🌱 Proficient in Java, SpringBoot, MySQL, Javascript, ReactJS, and Tailwind <br>
   💬 Feel free to ask me about anything related to Javascript or React <br>
-  📫 You can reach out to me at <a href="mailto:diluni.malsha.peiris@gmail.com"> saniduhasanka@gmail.com </a> </p>
+  📫 You can reach out to me at <a href="mailto:diluni.malsha.peiris@gmail.com"> diluni.malsha.peiris@gmail.com </a> </p>
 </p>
 
 ###

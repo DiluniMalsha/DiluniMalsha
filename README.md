@@ -139,13 +139,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanidu-udawatta/" target="_blank">
+  <a href="https://www.linkedin.com/in/diluni-malsha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Sanidu_Udawatta" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/sanidudawatta" target="_blank">
+  <a href="https://www.hackerrank.com/profile/diluni_malsha_p1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
   </a>
   

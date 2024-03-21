@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <!--horizontal divider(gradiant)-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 <h2 align="center">Hi 👋! I'm Diluni Malsha</h2>
 

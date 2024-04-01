@@ -127,6 +127,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=replit" height="50" alt="replit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
+  <img src="https://skillicons.dev/icons?i=ableton height="50" alt="stackoverflow logo"  />
 </div>
 
 ###
